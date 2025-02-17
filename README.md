@@ -1,2 +1,2 @@
 # Centrale_Projects
-My different python projecs at Centrale
+My different python projects at Centrale
